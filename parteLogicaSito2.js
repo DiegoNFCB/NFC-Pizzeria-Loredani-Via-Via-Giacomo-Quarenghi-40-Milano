@@ -1,7 +1,7 @@
 const reviewBtn = document.getElementById("reviewBtn");
 
-const googleReviewUrl =
-    "https://search.google.com/local/writereview?placeid=ChIJr8zq4YqfhkcRj8h0m9t1u9E";
+const googleReviewUrl = "https://g.page/r/ChIJr8zq4YqfhkcRj8h0m9t1u9E/review";
+
 
 reviewBtn.addEventListener("click", function () {
 
