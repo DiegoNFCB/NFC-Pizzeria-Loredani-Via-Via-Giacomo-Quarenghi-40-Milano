@@ -1,7 +1,7 @@
 const reviewBtn = document.getElementById("reviewBtn");
 
 // URL ufficiale per lasciare una recensione Google
-const googleReviewUrl = "https://www.google.com/search?q=Pizzeria+Loredani+Milano&ludocid=17640293387154055838&lsig=AB86z5WlQ0uVnX8ZkzQxJQ";
+const googleReviewUrl = "https://g.page/r/ChIJr8zq4YqfhkcRj8h0m9t1u9E/review";
 
 // Evento click sul pulsante
 reviewBtn.addEventListener("click", function () {
