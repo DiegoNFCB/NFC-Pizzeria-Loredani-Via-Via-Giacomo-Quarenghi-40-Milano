@@ -11,7 +11,7 @@ reviewBtn.addEventListener("click", function () {
     }
 
     reviewBtn.classList.add("loading");
-    reviewBtn.innerHTML = "🔄 Apertura di Google...";
+    reviewBtn.innerHTML = "⏳ Apertura di Google...";
 
     setTimeout(function () {
         window.location.href = googleReviewUrl;
