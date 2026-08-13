@@ -1,5 +1,6 @@
 const reviewBtn = document.getElementById("reviewBtn");
 
+// IL LINK NON E' CORRETTO ASPETTO QUELLO DEL NEGOZIO 
 const googleReviewUrl = "https://g.page/r/ChIJr8zq4YqfhkcRj8h0m9t1u9E/review";
 
 
