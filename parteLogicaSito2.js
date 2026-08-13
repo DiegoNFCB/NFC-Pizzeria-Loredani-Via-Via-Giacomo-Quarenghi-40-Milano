@@ -1,7 +1,7 @@
 const reviewBtn = document.getElementById("reviewBtn");
 
 // IL LINK NON E' CORRETTO ASPETTO QUELLO DEL NEGOZIO 
-const googleReviewUrl = "https://g.page/r/ChIJH9zq4YqfhkcRj8h0m9t1u9E/review";
+const googleReviewUrl = "https://search.google.com/local/writereview?placeid=ChIJyQ3sNjXAhkcRFK3_BbuL95Q&utm_source=chatgpt.com";
 
 
 reviewBtn.addEventListener("click", function () {
